@@ -1,0 +1,8 @@
+git config --global user.name "AbelAugustine"
+
+git config --global user.email "AbelAugustine10@gmail.com"
+
+Angry-Birds
+
+git remote add Angry-Birds https://github.com/AbelAugustine/Angry-Birds.git
+
